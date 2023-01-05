@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # BMI Index
 
-Body Max Index Calculator
+Body Mass Index Calculator
 
 ## Contributing
 
